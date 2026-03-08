@@ -54,7 +54,7 @@ namespace Examen_preliminar.Controllers
             {
                 if (nuevaCita == null)
                 {
-                    return BadRequest("Debe enviar los datos de la cita");
+                    return BadRequest("Debe enviar los datos de la cita indicada");
                 }
  
                 if (string.IsNullOrWhiteSpace(nuevaCita.Paciente) || string.IsNullOrWhiteSpace(nuevaCita.Medico))

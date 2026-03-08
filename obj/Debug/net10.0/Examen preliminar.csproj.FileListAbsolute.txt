@@ -31,3 +31,4 @@ C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_prelimi
 C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.pdb
 C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.genruntimeconfig.cache
 C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\ref\Examen preliminar.dll
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.sourcelink.json

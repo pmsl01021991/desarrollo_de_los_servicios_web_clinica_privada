@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Examen preliminar")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+862b44ad3ded00ec903dd836fda07d7d9051f2a7")]
 [assembly: System.Reflection.AssemblyProductAttribute("Examen preliminar")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Examen preliminar")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
