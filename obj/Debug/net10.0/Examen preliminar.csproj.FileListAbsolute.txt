@@ -1,0 +1,33 @@
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\appsettings.Development.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\appsettings.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Examen preliminar.staticwebassets.endpoints.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Examen preliminar.exe
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Examen preliminar.deps.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Examen preliminar.runtimeconfig.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Examen preliminar.dll
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Examen preliminar.pdb
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.csproj.AssemblyReference.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.GeneratedMSBuildEditorConfig.editorconfig
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.AssemblyInfoInputs.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.AssemblyInfo.cs
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.csproj.CoreCompileInputs.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.MvcApplicationPartsAssemblyInfo.cs
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.MvcApplicationPartsAssemblyInfo.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\scopedcss\bundle\Examen preliminar.styles.css
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\staticwebassets.build.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\staticwebassets.development.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\swae.build.ex.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen p.8033BA54.Up2Date
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.dll
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\refint\Examen preliminar.dll
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.pdb
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\Examen preliminar.genruntimeconfig.cache
+C:\QUINTO CICLO\DESARROLLO DE LOS SERVICIOS WEB\Examen preliminar\Examen_preliminar\obj\Debug\net10.0\ref\Examen preliminar.dll
