@@ -15,6 +15,8 @@ namespace Examen_preliminar.Models
  
         [Range(1, 120, ErrorMessage = "La edad debe estar entre 1 y 120")]
         public int Edad { get; set; }
+
+        
         [Required(ErrorMessage = "El teléfono es obligatorio")]
         [StringLength(9, MinimumLength = 9, ErrorMessage = "El teléfono debe tener 9 dígitos")]
         public string Telefono { get; set; } = "";
