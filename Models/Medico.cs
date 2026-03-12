@@ -6,13 +6,16 @@ namespace Examen_preliminar.Models
     {
         public int Id { get; set; }
  
-        [Required]
+        [Required(ErrorMessage = "El nombre del médico no debe ir vacío")]
+        [StringLength(30)]
         public string Nombre { get; set; } = "";
  
-        [Required]
+        [Required(ErrorMessage = "El nombre de la especialidad no debe ir vacía")]
+        [StringLength(30)]
         public string Especialidad { get; set; } = "";
  
-        [Required]
+        [Required(ErrorMessage = "El nombre de la colegiatura no debe ir vacía")]
+        [StringLength(30)]
         public string Colegiatura { get; set; } = "";
     }
 }
